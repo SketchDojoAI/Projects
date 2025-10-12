@@ -12,4 +12,5 @@ A collection of analytical, automation, and BI projects demonstrating skills in:
 - **Budget Tracker:** Automated personal finance dashboard in Excel  
 - **VBA Time Tracker:** Macro-based productivity timer  
 - **Shopify Marketing Case:** Data-driven behavioral experiment using R & synthetic data  
-- **Movie Recommender:** SQL-based recommendation engine using IMDb dataset  
+- **Movie Recommender:** SQL-based recommendation engine using IMDb dataset
+
