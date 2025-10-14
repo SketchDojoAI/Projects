@@ -20,6 +20,6 @@ Movie Recommender – SQL-driven recommendation model using IMDb data.
 # 🤝 Connect
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
-or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
+or via [email](mailto:amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
 
 
