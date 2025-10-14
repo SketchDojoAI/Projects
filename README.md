@@ -1,8 +1,9 @@
 ##Amit Pinchas – Data & Automation Portfolio
 
+#Explore each project folder for code, visuals, and insights.
+
 #🤝 Connect
 
-Explore each project folder for code, visuals, and insights.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
 or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
 
