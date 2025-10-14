@@ -1,12 +1,19 @@
-Amit Pinchas – Data & Automation Portfolio
-💡 Overview
+##Amit Pinchas – Data & Automation Portfolio
+
+#🤝 Connect
+
+Explore each project folder for code, visuals, and insights.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
+or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
+
+#💡 Overview
 
 Portfolio showcasing projects that combine data analytics, marketing insight, and workflow automation.
 Focus on transforming raw data into actionable insights using Excel, SQL, R, and automation tools.
 
 Core Skills: Excel (Power Query, Power Pivot, DAX) | SQL | R | Python | n8n | APIs | Qualtrics | Process Optimization
 
-📁 Project Highlights
+#📁 Project Highlights
 
 Northwind BI Dashboard – Interactive sales & logistics dashboards using Power Query & Power Pivot; analyzed 10+ KPIs.
 
@@ -18,12 +25,7 @@ YouTube Trend Finder Automation – n8n-based scraper using HTTP requests & JS r
 
 Movie Recommender – SQL-driven recommendation model using IMDb data.
 
-⚙️ Tech Stack
+#⚙️ Tech Stack
 
 Excel · Power Query · Power Pivot · SQL · R · Python · VBA · n8n · Qualtrics · APIs · Automation Workflows
 
-🤝 Connect
-
-Explore each project folder for code, visuals, and insights.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
-or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
