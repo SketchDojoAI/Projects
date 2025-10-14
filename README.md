@@ -2,7 +2,7 @@
 
 ### 💡 Overview
 A collection of analytical, automation, and BI projects demonstrating skills in:
-- Excel & Power BI (Power Query, Power Pivot, DAX)
+- Excel & Google Sheets (Power Query, Power Pivot, DAX)
 - SQL & R (data analysis, simulations, statistical testing)
 - Marketing analytics, automation (n8n, APIs)
 - Process design & creative problem solving
@@ -13,4 +13,5 @@ A collection of analytical, automation, and BI projects demonstrating skills in:
 - **VBA Time Tracker:** Macro-based productivity timer  
 - **Shopify Marketing Case:** Data-driven behavioral experiment using R & synthetic data  
 - **Movie Recommender:** SQL-based recommendation engine using IMDb dataset
+- **Niche trend finder Automation:** A dual-platform system that scrapes YouTube & Reddit, filters data with weighted metrics and language-model validation, and updates ranked trend insights automatically to Google Sheets.
 
