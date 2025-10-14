@@ -1,23 +1,21 @@
-## Amit Pinchas – Data & Automation Portfolio
+# Amit Pinchas – Data & Automation Portfolio
 
-# 💡 Overview
+### 💡 Overview  
+A compact showcase of projects combining **data analytics**, **business insight**, and **process automation** — focused on efficiency, structure, and measurable impact.
 
-Portfolio showcasing projects that combine data analytics, marketing insight, and workflow automation.
-Focus on transforming raw data into actionable insights using Excel, SQL, R, and automation tools.
+---
 
-# 📁 Project Highlights
+### 📁 Project Highlights  
 
-Northwind BI Dashboard – Interactive sales & logistics dashboards using Power Query & Power Pivot;
+- **Shopify Marketing Analysis** – Behavioral analytics project in **R**, exploring user conversion patterns and A/B testing simulations.  
+- **Niche Trend Finder Automation** – Automated workflow in **n8n** and **JavaScript** for detecting and ranking trending YouTube content.  
+- **Excel BI Analysis** – Business intelligence dashboards built with **Power Query** and **Power Pivot**, analyzing KPIs and operational trends.  
+- **Budget Management System** – Automated Excel tool for expense tracking and workflow optimization through **macros**.  
+- **Movie Recommender System** – **SQL** project building a relational model for content ranking and recommendations.  
+- **VBA Time Tracker** – Macro-based time management tool for tracking and visualizing meeting efficiency.
 
-Budget Tracker – Automated finance workflow with macros & scripts; reduced manual reporting by ~20%.
 
-Shopify Marketing Case Study – Behavioral A/B experiment (400+ participants) in R & Qualtrics; validated by Shopify data.
-
-YouTube Trend Finder Automation – n8n-based scraper using HTTP requests & JS ranking; identified viral trends with ~80% accuracy, saving 10+ hours/month.
-
-Movie Recommender – SQL-driven recommendation model using IMDb data.
-
-# 🤝 Connect
+### 🤝 Connect
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
 or via [email](mailto:amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
