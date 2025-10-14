@@ -7,7 +7,7 @@ Focus on transforming raw data into actionable insights using Excel, SQL, R, and
 
 # 📁 Project Highlights
 
-Northwind BI Dashboard – Interactive sales & logistics dashboards using Power Query & Power Pivot; analyzed 10+ KPIs.
+Northwind BI Dashboard – Interactive sales & logistics dashboards using Power Query & Power Pivot;
 
 Budget Tracker – Automated finance workflow with macros & scripts; reduced manual reporting by ~20%.
 
