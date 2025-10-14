@@ -1,12 +1,5 @@
 ## Amit Pinchas – Data & Automation Portfolio
 
-Explore each project folder for code, visuals, and insights.
-
-# 🤝 Connect
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
-or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
-
 # 💡 Overview
 
 Portfolio showcasing projects that combine data analytics, marketing insight, and workflow automation.
@@ -29,4 +22,10 @@ Movie Recommender – SQL-driven recommendation model using IMDb data.
 # ⚙️ Tech Stack
 
 Excel · Power Query · Power Pivot · SQL · R · Python · VBA · n8n · Qualtrics · APIs · Automation Workflows
+
+# 🤝 Connect
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
+or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
+
 
