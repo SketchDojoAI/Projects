@@ -5,8 +5,6 @@
 Portfolio showcasing projects that combine data analytics, marketing insight, and workflow automation.
 Focus on transforming raw data into actionable insights using Excel, SQL, R, and automation tools.
 
-Core Skills: Excel (Power Query, Power Pivot, DAX) | SQL | R | Python | n8n | APIs | Qualtrics | Process Optimization
-
 # 📁 Project Highlights
 
 Northwind BI Dashboard – Interactive sales & logistics dashboards using Power Query & Power Pivot; analyzed 10+ KPIs.
@@ -18,10 +16,6 @@ Shopify Marketing Case Study – Behavioral A/B experiment (400+ participants) i
 YouTube Trend Finder Automation – n8n-based scraper using HTTP requests & JS ranking; identified viral trends with ~80% accuracy, saving 10+ hours/month.
 
 Movie Recommender – SQL-driven recommendation model using IMDb data.
-
-# ⚙️ Tech Stack
-
-Excel · Power Query · Power Pivot · SQL · R · Python · VBA · n8n · Qualtrics · APIs · Automation Workflows
 
 # 🤝 Connect
 
