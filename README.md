@@ -1,6 +1,6 @@
 ## Amit Pinchas – Data & Automation Portfolio
 
-# Explore each project folder for code, visuals, and insights.
+Explore each project folder for code, visuals, and insights.
 
 # 🤝 Connect
 
