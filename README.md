@@ -3,7 +3,6 @@
 ### 💡 Overview  
 A compact showcase of projects combining **data analytics**, **business insight**, and **process automation** — focused on efficiency, structure, and measurable impact.
 
---
 
 ### 📁 Project Highlights  
 
@@ -14,7 +13,6 @@ A compact showcase of projects combining **data analytics**, **business insight*
 - **Movie Recommender System** – **SQL** project building a relational model for content ranking and recommendations.  
 - **VBA Time Tracker** – Macro-based time management tool for tracking and visualizing meeting efficiency.
 
---
 ### 🤝 Connect
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
