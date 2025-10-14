@@ -1,17 +1,29 @@
-# Amit Pinchas – Data & Automation Portfolio
+Amit Pinchas – Data & Automation Portfolio
+💡 Overview
 
-### 💡 Overview
-A collection of analytical, automation, and BI projects demonstrating skills in:
-- Excel & Google Sheets (Power Query, Power Pivot, DAX)
-- SQL & R (data analysis, simulations, statistical testing)
-- Marketing analytics, automation (n8n, APIs)
-- Process design & creative problem solving
+Portfolio showcasing projects that combine data analytics, marketing insight, and workflow automation.
+Focus on transforming raw data into actionable insights using Excel, SQL, R, and automation tools.
 
-### 📁 Project Highlights
-- **Northwind Analysis:** Relational BI dashboard using Excel Power Query & Power Pivot  
-- **Budget Tracker:** Automated personal finance dashboard in Excel  
-- **VBA Time Tracker:** Macro-based productivity timer  
-- **Shopify Marketing Case:** Data-driven behavioral experiment using R & synthetic data  
-- **Movie Recommender:** SQL-based recommendation engine using IMDb dataset
-- **Niche trend finder Automation:** A dual-platform system that scrapes YouTube & Reddit, filters data with weighted metrics and language-model validation, and updates ranked trend insights automatically to Google Sheets.
+Core Skills: Excel (Power Query, Power Pivot, DAX) | SQL | R | Python | n8n | APIs | Qualtrics | Process Optimization
 
+📁 Project Highlights
+
+Northwind BI Dashboard – Interactive sales & logistics dashboards using Power Query & Power Pivot; analyzed 10+ KPIs.
+
+Budget Tracker – Automated finance workflow with macros & scripts; reduced manual reporting by ~20%.
+
+Shopify Marketing Case Study – Behavioral A/B experiment (400+ participants) in R & Qualtrics; validated by Shopify data.
+
+YouTube Trend Finder Automation – n8n-based scraper using HTTP requests & JS ranking; identified viral trends with ~80% accuracy, saving 10+ hours/month.
+
+Movie Recommender – SQL-driven recommendation model using IMDb data.
+
+⚙️ Tech Stack
+
+Excel · Power Query · Power Pivot · SQL · R · Python · VBA · n8n · Qualtrics · APIs · Automation Workflows
+
+🤝 Connect
+
+Explore each project folder for code, visuals, and insights.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pinchas-amit/)
+or via [email](amit.pinchas.pro@gmail.com) for collaboration or professional opportunities.
